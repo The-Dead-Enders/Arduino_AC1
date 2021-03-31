@@ -13,9 +13,12 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 Nosso grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina. Nós seguiremos as regras dadas para ajudar o Brasil a sair dessa pandemia.
 Abaixo dos intergrantes do grupo costam as alteraçoes que foram feitas no projeto 
 
-## Integrantes do grupo 
+## Integrantes do grupo:
 
-![]()
+#Letícia Maria Moreira de Carvalho 
+![](https://github.com/The-Dead-Enders/Arduino_AC1/blob/main/Leticia%20Maria%20.png)
+Oii eu sou a Letícia aluna do 1EMRB, gosto muito de desenhar, pintar, assistir séries e cozinhar. Gosto muito de musica porém falhei miseravelmente em tocar violão 
+-Arrumei o codigo e fiz a montagem no Tinkercad 
 
 ### Funcionalidades esperadas:
 
