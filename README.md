@@ -1,5 +1,5 @@
 # Arduino_AC1
-## Nossa primeira AC, observe bem o código, procure pelos erros.
+##  The Dead Enders-Nossa primeira AC
 
 Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
@@ -12,6 +12,10 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 Nosso grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina. Nós seguiremos as regras dadas para ajudar o Brasil a sair dessa pandemia.
 Abaixo dos intergrantes do grupo costam as alteraçoes que foram feitas no projeto 
+
+## Integrantes do grupo 
+
+![]()
 
 ### Funcionalidades esperadas:
 
