@@ -8,11 +8,10 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![](https://github.com/The-Dead-Enders/Arduino_AC1/blob/main/AC1.ino.png)
 
-## **O PROBLEMA:** 
+## **AUTOMAÇÃO:** 
 
-Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
-
-Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar cada ponto necessário para completar o desafio.
+Nosso grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina. Nós seguiremos as regras dadas para ajudar o Brasil a sair dessa pandemia.
+Abaixo dos intergrantes do grupo costam as alteraçoes que foram feitas no projeto 
 
 ### Funcionalidades esperadas:
 
