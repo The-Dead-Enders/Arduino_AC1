@@ -15,7 +15,8 @@ Abaixo dos intergrantes do grupo costam as alteraçoes que foram feitas no proje
 
 ## Integrantes do grupo:
 
-#Letícia Maria Moreira de Carvalho 
+
+Letícia Maria Moreira de Carvalho 
 ![](https://github.com/The-Dead-Enders/Arduino_AC1/blob/main/Leticia%20Maria%20.png)
 Oii eu sou a Letícia aluna do 1EMRB, gosto muito de desenhar, pintar, assistir séries e cozinhar. Gosto muito de musica porém falhei miseravelmente em tocar violão 
 -Arrumei o codigo e fiz a montagem no Tinkercad 
