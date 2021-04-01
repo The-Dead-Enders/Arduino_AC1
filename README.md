@@ -24,29 +24,14 @@ Oii eu sou a Letícia aluna do 1EMRB, gosto muito de desenhar, pintar, assistir 
 
 -Arrumei o codigo e fiz a montagem no Tinkercad 
 
-### Funcionalidades esperadas:
+### Documentaçao do projeto:
 
-- Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
-- Leitura do sensor de temperatura e teste, ao atingir **15℃** o led azul deve acender, deve ser informado via serial e somente apagar o led quando a temperatura for mais baixa que isso.
-- Leitura do sensor de luminosidade e teste, ao indicar um valor acima de **5** a luminosidade do ambiente esta muito alta, deve ser informado via serial e o led verde deve permanecer aceso até a luminosidade diminuir.
-
-### Composição da nota do grupo
+- Foi colocado um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
+- Leitura do sensor de temperatura e teste, ao atingir **15℃** o led azul irá acender, e vai ser informado via serial e o led irá apagar quando a temperatura for mais baixa que isso.
+- Leitura do sensor de luminosidade e teste, ao indicar um valor acima de **5** a luminosidade do ambiente esta muito alta, vai ser informado via serial e o led verde irá permanecer aceso até a luminosidade diminuir.
 - Ajuste dos erros no código principal.
 - Documentação do projeto do github no README.md abordando todos os pontos necessários.
 - No README.md adicionando nome do grupo fotos e short bio de cada integrante.
 - Todos os pontos do código devem estar comentados corretamente informando o que se passa ali.
 - Usar do Serial o max possível, sempre informando os estados da produção e demais itens.
 - Implementação das funcionalidades faltantes.
-
-### Desconto de nota individual
-
-**Caso um dos integrantes venha a ter um desempenho inconsistente na colaboração com o projeto em comparação com os demais da equipe o mesmo pode ter sua nota parcial ou total descontada.**
-
-#### LINKS UTEIS:
-
-- **Funções:** https://www.arduino.cc/reference/pt/
-- **map():** https://www.arduino.cc/reference/pt/language/functions/math/map/
-- **millis():** https://www.arduino.cc/reference/pt/language/functions/time/millis/
-
-- **Editor de README.md:** https://pandao.github.io/editor.md/en.html
-- **Shield.io:** https://shields.io/
