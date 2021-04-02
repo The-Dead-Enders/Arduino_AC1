@@ -34,7 +34,7 @@ Salve, eu sou o Matheus aluno do 1ERB, eu gosto de jogar meus joguinhos.
 
 Gabriel Boso
 
-![](file:///C:/Users/Extra/Desktop/foto%20.jpeg)
+![](https://raw.githubusercontent.com/The-Dead-Enders/Arduino_AC1/main/foto%20.jpeg)
 
 Eae, eu sou Gabriel aluno do 1EMRB, eu curto jogos, musicas e principalmente ficar com meus amigos, dale.
 
