@@ -24,6 +24,15 @@ Oii eu sou a Letícia aluna do 1EMRB, gosto muito de desenhar, pintar, assistir 
 
 -Arrumei o codigo e fiz a montagem no Tinkercad 
 
+Matheus Guion
+
+https://github.com/The-Dead-Enders/Arduino_AC1/blob/main/a237bc0d-a295-4046-bb03-8c41cb37073c.JPG
+
+Salve, eu sou o Matheus aluno do 1ERB, eu gosto de jogar meus joguinhos.
+
+- Fiz uma parte do readme
+
+
 ### Documentaçao do projeto:
 
 - Foi colocado um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
