@@ -32,12 +32,19 @@ Salve, eu sou o Matheus aluno do 1ERB, eu gosto de jogar meus joguinhos.
 
 - Fiz uma parte do readme
 
+Gabriel Boso
+
+![](file:///C:/Users/Extra/Desktop/foto%20.jpeg)
+
+Eae, eu sou Gabriel aluno do 1EMRB, eu curto jogos, musicas e principalmente ficar com meus amigos, dale.
+
+- Editei uma parte do ReadMe
 
 ### Documentaçao do projeto:
 
 - Foi colocado um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
-- Leitura do sensor de temperatura e teste, ao atingir **15℃** o led azul irá acender, e vai ser informado via serial e o led irá apagar quando a temperatura for mais baixa que isso.
-- Leitura do sensor de luminosidade e teste, ao indicar um valor acima de **5** a luminosidade do ambiente esta muito alta, vai ser informado via serial e o led verde irá permanecer aceso até a luminosidade diminuir.
+- Leitura do sensor de temperatura e teste, ao atingir **15℃** o led azul irá acender, e vai ser informado via serial e o led só apagara quando a temperatura for mais baixa que isso.
+- Leitura do sensor de luminosidade e teste, ao indicar um valor acima de **5** significara que a luminosidade do ambiente esta muito alta, o problema será informado via serial e o led verde irá permanecer aceso até a luminosidade diminuir.
 - Ajuste dos erros no código principal.
 - Documentação do projeto do github no README.md abordando todos os pontos necessários.
 - No README.md adicionando nome do grupo fotos e short bio de cada integrante.
