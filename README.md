@@ -22,7 +22,7 @@ Letícia Maria Moreira de Carvalho
 
 Oii eu sou a Letícia aluna do 1EMRB, gosto muito de desenhar, pintar, assistir séries e cozinhar. Gosto muito de musica porém falhei miseravelmente em tocar violão 
 
--Arrumei o codigo e fiz a montagem no Tinkercad 
+- Arrumei o codigo e fiz a montagem no Tinkercad 
 
 Matheus Guion
 
