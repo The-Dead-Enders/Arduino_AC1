@@ -42,7 +42,11 @@ Eae, eu sou Gabriel aluno do 1EMRB, eu curto jogos, musicas e principalmente fic
 
 Carolina Benedetti (Lina)
 
+![](https://raw.githubusercontent.com/The-Dead-Enders/Arduino_AC1/main/10A15B6E-5550-42FE-AF37-21101A152883.jpeg) 
+
 Eu sou a Carolina do 1ERMB, gosto muito de ler gibis e ver filmes, meu favorito e Knives Out, e gosto de ouvir musica. Meus artistas favoritos sao The Weeknd, Beyonce, e Kendrick Lamar.
+
+- Editei uma parte do ReadMe
 
 ### Documentaçao do projeto:
 
