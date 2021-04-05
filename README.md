@@ -40,6 +40,10 @@ Eae, eu sou Gabriel aluno do 1EMRB, eu curto jogos, musicas e principalmente fic
 
 - Editei uma parte do ReadMe
 
+Carolina Benedetti (Lina)
+
+Eu sou a Carolina do 1ERMB, gosto muito de ler gibis e ver filmes, meu favorito e Knives Out, e gosto de ouvir musica. Meus artistas favoritos sao The Weeknd, Beyonce, e Kendrick Lamar.
+
 ### Documentaçao do projeto:
 
 - Foi colocado um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
